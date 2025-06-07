@@ -1,1 +1,1 @@
-# Euler-scheme
+# Explicit/Implicit Euler-scheme
